@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @engr-junaid-qazi
+- 👋 Hi, I’m @ Engr Junaid Qazi
 - 👀 I’m interested in learning new things 
 - 🌱 I’m currently learning AI & DS
 - 💞️ I’m looking to collaborate on Machine Learning, Deep Learning & Python based end-user applications
