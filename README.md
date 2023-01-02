@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @ Engr. Junaid Qazi
-- 👀 🌱 I’m currently studying Artificial Intelligence & Data Science
-- 💞️ I’m looking to collaborate on Machine Learning, Deep Learning, Web & Python based end-user applications
-- 📫 You can reach me through Facebook & LinkedIn: 
+- 👋 Hi, I’m Engr. Junaid Qazi 
+- 👀 An Electronic Engineer registered with Pakistan Engineering Council & Artificial Intelligence, Machine Learning & Deep     Learning Enthusiast
+- 🌱 Currently studying Artificial Intelligence & Data Science
+- 💞️ Here looking to collaborate on Machine Learning, Deep Learning, Web & Python based end-user applications
+- 📫 I can be reached through Facebook & LinkedIn: 
 - LinkedIn: https://www.linkedin.com/in/engrjunaidqazi/ 
 - Facebook: https://web.facebook.com/profile.php?id=100011665863653  
 
