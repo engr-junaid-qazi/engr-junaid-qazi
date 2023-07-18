@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Engr. Junaid Qazi 
-- 👀 An Electronic Engineer registered with Pakistan Engineering Council & Artificial Intelligence, Machine Learning, Deep     Learning & NLP Enthusiast
+- 👀 Electronic Engineer || Artificial Intelligence || Machine Learning || Deep Learning || NLP Enthusiast || Web Developer
 - 🌱 Currently studying Artificial Intelligence, Data Science and Metaverse Web 3.0 Developer
 - 💞️ Here looking to collaborate on Machine Learning, Deep Learning, NLP, Web & Python based end-user applications
 - 📫 I can be reached through Facebook & LinkedIn: 
