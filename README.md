@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Engr. Junaid Qazi 
+- 👋 Hi, I’m Engr. Junaid  
 - 👀 Electronic Engineer || Artificial Intelligence || Machine Learning || Deep Learning || NLP Enthusiast || Web Developer
 - 🌱 Currently studying Artificial Intelligence, Data Science and Metaverse Web 3.0 Developer
 - 💞️ Here looking to collaborate on Machine Learning, Deep Learning, NLP, Web & Python based end-user applications
 - 📫 I can be reached through Facebook & LinkedIn: 
-- LinkedIn: https://www.linkedin.com/in/engrjunaidqazi/ 
-- Facebook: https://web.facebook.com/profile.php?id=100011665863653  
+- LinkedIn: https://www.linkedin.com/in/engrjunaidqazi/   
 - Kaggle: https://www.kaggle.com/engrjunaidqazi/ 
 
 <!---
